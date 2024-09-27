@@ -1,0 +1,45 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: blue;
+    border-bottom: solid 5px  lawngreen;
+}
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(32deg, rgba(131,58,180,1) 0%,
+rgba(253,29,29,0.7987570028011204) 50%, rgba(252,176,69,1) 100%); 
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+div  {
+    color: white;
+    border-left: solid 4px lawngreen;
+    height:150px;
+    width: 150px;
+    background:maroon;
+    display: inline-block;
+    border-bottom: solid 4px lawngreen;
+    text-align: center;
+    padding: 12px;
+
+    
+    
+}
+ .f2 {
+background-color: blueviolet;
+border-bottom: solid 5px lawngreen;
+height: 350px;
+width: 650px;
+display: inline-block;
+color: white;
+border-top: solid 5px lawngreen;
+
+
+ }
